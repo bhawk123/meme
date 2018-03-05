@@ -1,4 +1,5 @@
 <html>
+<head><title>Dapper John</title></head>
 <body>
 <h2>Hello Docker-Maven-Git Hybrid-New!</h2>
 <br>
