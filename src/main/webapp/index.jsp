@@ -1,7 +1,7 @@
 <html>
 <body>
-<h2>Hello Docker-Maven-Git Hybrid!</h2>
+<h2>Hello Docker-Maven-Git Hybrid-New!</h2>
 <br>
-<image src="resource/Sir-John-Hawkins-Dapper.png">Sir John Hawkins</image>
+<image src="images/John-Dapper.png">Dapper John</image>
 </body>
 </html>
